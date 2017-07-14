@@ -9,7 +9,6 @@
 import UIKit
 import GameplayKit
 
-// Hola
 class ViewController: UIViewController {
 
     @IBOutlet weak var btn1: UIButton!
